@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="automation_test_report" duration-ms="20408" started-at="2019-12-17T17:10:03Z" finished-at="2019-12-17T17:10:23Z">
+  <suite name="automation_test_report" duration-ms="19724" started-at="2020-07-22T09:28:17Z" finished-at="2020-07-22T09:28:36Z">
     <groups>
     </groups>
-    <test name="Search" duration-ms="20408" started-at="2019-12-17T17:10:03Z" finished-at="2019-12-17T17:10:23Z">
+    <test name="Search" duration-ms="19724" started-at="2020-07-22T09:28:17Z" finished-at="2020-07-22T09:28:36Z">
       <class name="TestCase.Test01">
-        <test-method status="PASS" signature="buildDriver()[pri:0, instance:TestCase.Test01@4e718207]" name="buildDriver" is-config="true" duration-ms="3920" started-at="2019-12-17T17:10:03Z" finished-at="2019-12-17T17:10:07Z">
+        <test-method status="PASS" signature="buildDriver()[pri:0, instance:TestCase.Test01@23fe1d71]" name="buildDriver" is-config="true" duration-ms="4059" started-at="2020-07-22T09:28:17Z" finished-at="2020-07-22T09:28:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- buildDriver -->
-        <test-method status="PASS" signature="test_Login()[pri:0, instance:TestCase.Test01@4e718207]" name="test_Login" duration-ms="15755" started-at="2019-12-17T17:10:07Z" description="Test Log in" finished-at="2019-12-17T17:10:23Z">
+        <test-method status="PASS" signature="test_Login()[pri:0, instance:TestCase.Test01@23fe1d71]" name="test_Login" duration-ms="14931" started-at="2020-07-22T09:28:21Z" description="Test Log in" finished-at="2020-07-22T09:28:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- test_Login -->
-        <test-method status="PASS" signature="closeDriver()[pri:0, instance:TestCase.Test01@4e718207]" name="closeDriver" is-config="true" duration-ms="713" started-at="2019-12-17T17:10:23Z" finished-at="2019-12-17T17:10:23Z">
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:TestCase.Test01@23fe1d71]" name="closeDriver" is-config="true" duration-ms="709" started-at="2020-07-22T09:28:36Z" finished-at="2020-07-22T09:28:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeDriver -->

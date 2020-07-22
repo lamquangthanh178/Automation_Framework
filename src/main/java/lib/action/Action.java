@@ -42,14 +42,8 @@ public class Action {
 	 * @param element
 	 */
 	public void click(WebElement element) {
-		try {
-			element.click();
-			System.out.println("Click on element");
-		} catch (Exception ex) {
-			System.out.println("Can't click element " + ex.getMessage());
-			Logger.log(this.getClass().getName(), "Element is not available for this tyre characteristic", LogLevel.INFO);
-		}
-
+		element.click();
+		System.out.println("Click on element");
 	}
 
 	/**
