@@ -6,3 +6,4 @@ target/
 framework.iml
 .idea/
 src/main/main.iml
+test-output/
